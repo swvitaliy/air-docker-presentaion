@@ -332,4 +332,7 @@ Fig позволяет управлять контейнерами в рамка
 
 <span>Tech Meetup: технические встречи АИР</span>
 
-<span>Саранск, 2014</span>
+<a href="https://github.com/swvitaliy/air-docker-presentaion">github</a> | 
+<a href="https://github.com/swvitaliy/docker-bochar">docker для запуска</a>
+
+<span>Саранск, 2015</span>
