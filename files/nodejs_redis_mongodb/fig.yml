@@ -1,0 +1,16 @@
+redis:
+    image: redis
+
+mongo:
+    image: mongo
+
+web:
+    build: .
+    ports:
+        - "8000:8000"
+    command: /bin/bash
+    links: 
+        - redis
+        - mongo
+
+
