@@ -336,3 +336,6 @@ Fig позволяет управлять контейнерами в рамка
 <a href="https://github.com/swvitaliy/docker-bochar">docker для запуска</a>
 
 <span>Саранск, 2015</span>
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/swvitaliy/air-docker-presentaion/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
