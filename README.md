@@ -5,11 +5,6 @@ output: index.html
 
 ## Docker в веб-разработке
 
-
-<p style="text-align: center">
-	<img src="/images/logo.png" style="height: 400px">
-</p>
-
 --
 
 ## Docker - это ...
